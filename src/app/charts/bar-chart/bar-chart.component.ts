@@ -25,8 +25,6 @@ export class BarChartComponent implements OnInit {
     responsive: true
   } 
 
-
-
   ngOnInit(): void {
   }
 
