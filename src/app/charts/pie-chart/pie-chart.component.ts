@@ -11,7 +11,7 @@ export class PieChartComponent implements OnInit {
 
   public pieChartData: any[] = [350, 450, 120];
   public pieChartLabels: string[] = ["XYZ Logistics", " Main St Bakery", "Acme Hosting"];
-  public color:any[] = [
+  public colors:any[] = [
     {
       backgroundColor: ['#26547c', '#ff6b6b', '#ffd166'],
     }
